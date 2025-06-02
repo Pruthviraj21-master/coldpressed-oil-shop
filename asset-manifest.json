@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/coldpressed-oil-shop/static/css/main.0f201026.css",
+    "main.js": "/coldpressed-oil-shop/static/js/main.f7c15deb.js",
+    "static/js/453.321541b4.chunk.js": "/coldpressed-oil-shop/static/js/453.321541b4.chunk.js",
+    "static/media/coconut.png": "/coldpressed-oil-shop/static/media/coconut.d40afbee9ed3873682fd.png",
+    "static/media/groundnut.png": "/coldpressed-oil-shop/static/media/groundnut.4a8783d607df875cfce3.png",
+    "static/media/dub.png": "/coldpressed-oil-shop/static/media/dub.e4bde3a72f5bb4f681c0.png",
+    "static/media/sasemi.jpg": "/coldpressed-oil-shop/static/media/sasemi.bfb4830097e3df427a4b.jpg",
+    "static/media/logo.png": "/coldpressed-oil-shop/static/media/logo.5e0ae5fa7b114aa61e98.png",
+    "index.html": "/coldpressed-oil-shop/index.html",
+    "main.0f201026.css.map": "/coldpressed-oil-shop/static/css/main.0f201026.css.map",
+    "main.f7c15deb.js.map": "/coldpressed-oil-shop/static/js/main.f7c15deb.js.map",
+    "453.321541b4.chunk.js.map": "/coldpressed-oil-shop/static/js/453.321541b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f201026.css",
+    "static/js/main.f7c15deb.js"
+  ]
+}
